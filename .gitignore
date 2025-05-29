@@ -35,7 +35,8 @@ frontend/.env
 
 # Flask-specific environment files
 myenv/*
-
+myenv/Lib/site-packages/torch/lib/torch_cpu.dll
+myenv/Lib/site-packages/torch/lib/dnnl.lib
 # Common dependency folders (CV-related)
 **/cv2/
 **/paddle/
