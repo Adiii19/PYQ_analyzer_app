@@ -1,0 +1,29 @@
+Cluster,Question,Count
+🔴 Frequently Asked,1. What is the probability of an electron being thermally excited to conduction band in Silicon at 20°C if the band gap is 1.12 eV. (Given: k=8.6 x 10^-5 eV/K).,8
+🔴 Frequently Asked,"2. Draw the following with reference to cubic unit cell: (121), (100) and (011).",4
+🔴 Frequently Asked,3. Explain why an extensively thin film appears black in reflected light.,9
+🔴 Frequently Asked,4. What are the properties of matter waves?,8
+🔴 Frequently Asked,8. State the conditions of Maxima and Minima in Newton's rings and derive expression for the diameter of dark ring in reflected light system.,4
+🔴 Frequently Asked,15. Discuss the importance of critical temperature in superconductors. Differentiate between Type I and Type II superconductors.,6
+🔴 Frequently Asked,20. An electron is bound in one dimensional potential well of width 2A° that of infinite height. Find its energy value in the first two exited states.,5
+🟠 Occasionally Asked,5. Explain at least three applications of super capacitors.,3
+🟠 Occasionally Asked,6. Explain different phases of liquid crystal.,3
+🟠 Occasionally Asked,9. Explain with neat diagram construction of Bragg’s X-ray spectrometer and explain the procedure to determine crystal structure using it. Calculate the maximum order of diffraction if x-ray of wavelength 0.819A° is incident on a crystal with lattice spacing of 0.282nm.,3
+🟠 Occasionally Asked,10. Discuss Heisenberg’s Uncertainty principle and prove that electrons cannot reside inside the nucleus of an atom using the same principle.,2
+🟠 Occasionally Asked,"11. Explain the construction and working of Light Emitting Diode with the help of diagrams, State the merits, demerits and applications.",3
+🟠 Occasionally Asked,26. What are Multiferroic materials? Differentiate between Type I and Type II Multiferroics.,2
+🟠 Occasionally Asked,"33. A copper strip 0.02m wide and 2mm thick is placed in a magnetic field B= 2.5 Wb/m^2. If current of 300Amp is set up in the strip, calculate Hall voltage and charge density that appears across the strip. Given, Rh= 6 x 10^-7 m^3/C",3
+🟠 Occasionally Asked,37. Explain the effect of doping concentration on fermi level in n-type semiconductor.,2
+🟠 Occasionally Asked,52. Derive one dimensional Schrédinger’s time dependent equation for matter waves.,2
+🟢 Rarely Asked,14. A wedge-shaped film of solution which had refractive index 1.28 was observed normally. The distance between successive bands was 0.15cm. The angle of wedge was 0.01°. Determine the wavelength of light used.,1
+🟢 Rarely Asked,"24. Define the following terms: Wave packet, Phase velocity and Group velocity.",1
+🟢 Rarely Asked,25. What is energy density and power density?,1
+🟢 Rarely Asked,"54. Find the de Broglie wavelength of (i) an electron accelerated through a potential difference of 182 Volts and (ii) 1 Kg object moving with a speed of 1 m/s. Comparing the results, explain why is the wave nature of matter not apparent in daily observations?",1
+🟢 Rarely Asked,59. We wish to coat a flat slab of glass with refractive index 1.5 with a thinnest possible film of transparent material so that light of wavelength 600 nm incident normally is not reflected. We have two materials to choose from M1 (µ= 1.21) and M2 (µ=1.6). Which one would be appropriate? What will be the minimum thickness of coating?,1
+🟢 Rarely Asked,"60. Draw (0 0 2), (1 0 0), (0 1 1).",1
+🟢 Rarely Asked,62. Differentiate between Direct and Indirect band gap semiconductor.,1
+🟢 Rarely Asked,63. Explain any three conditions for Sustained Interference.,1
+🟢 Rarely Asked,64. A source is emitting 150W of red light of wavelength of 600nm. How many photons are emitted by the source per minute?,1
+🟢 Rarely Asked,65. Explain the Meissner effect with application.,1
+🟢 Rarely Asked,66. Explain construction and working of LED.,1
+🟢 Rarely Asked,"73. Find Resistance of an intrinsic Ge rod of dimensions ( 1cm long , 1mm wide and 1mm thick) at 300K . For Ge ni= 2.5 x 10^19/m^3 , µn = 0.39m^2/v-s, µp = 0.19m^2/v-s",1
