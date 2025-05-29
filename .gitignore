@@ -1,0 +1,59 @@
+# ------------------------
+# Global - Project Level
+# ------------------------
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment folders
+env/
+venv/
+myenv/
+.env/
+
+# Python compiled files
+*.so
+.Python
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Node modules (for React)
+frontend/node_modules/
+frontend/build/
+
+# React environment variables
+frontend/.env
+
+# Flask-specific environment files
+backend/.myenv
+
+# Common dependency folders (CV-related)
+**/cv2/
+**/paddle/
+**/torch/
+**/tensorflow/
+
+# Git
+*.swp
+*.swo
+
+# Test/coverage
+coverage/
+*.coverage
+*.egg-info/
+
+# Other tools (if using)
+*.sqlite3
+*.db
+
+# Ignore VSCode workspace files
+*.code-workspace

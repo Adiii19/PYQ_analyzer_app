@@ -1,0 +1,34 @@
+@import "tailwindcss";
+
+:root {
+  line-height: 1.0;
+  font-weight: 400;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+
+  /* Custom radial gradient background */
+ 
+
+  color: rgba(0, 0, 0, 0.87);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+
+  
+
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Apply the gradient background to the whole page */
+body {
+  background-color: rgb(255, 255, 255); /* Fallback */
+  background-image: linear-gradient(to bottom right, #90e1ff, #f9e0f0, #ffffff);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh; 
+  height: 100%;
+  margin: 0;
+   background-attachment: fixed; 
+  padding: 0;/* ensures full viewport height */
+}
