@@ -34,7 +34,7 @@ frontend/build/
 frontend/.env
 
 # Flask-specific environment files
-backend/.myenv
+.myenv
 
 # Common dependency folders (CV-related)
 **/cv2/
