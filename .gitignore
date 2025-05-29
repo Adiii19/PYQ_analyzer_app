@@ -15,7 +15,7 @@ __pycache__/
 # Environment folders
 env/
 venv/
-myenv/
+
 .env/
 
 # Python compiled files
