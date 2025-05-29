@@ -10,7 +10,7 @@
 
 # Python bytecode
 __pycache__/
-*.py[cod]
+*.pyc
 
 # Environment folders
 env/
