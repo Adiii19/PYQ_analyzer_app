@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dark-star-467117-c5",
+  "private_key_id": "d3a8ea3d78d51fa0df7a945c71906ee5f243aaf6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDSWfnbZNDUh34r\nYxd6SPNv3SuyOrwrUMl8v/z0HGGV5WLYGaIkxMWCQvecAYyx4M4rKXH+LqaRBv8k\nSTcpomj0RrZsih/fJTmU18U9h5orYu43nqAZLka46TZx5M7gcwxtvWfkneT6EZMb\nAsbM/iWXARW2wHOACCGi+eBv9Wi/ETjHKl6RRs8/7wROKGFmmAr6iNgzWg8uOVtc\ngEs8/BupCv9TztHy1CaHA2xjCd9Nn/U2CwBNaVAN1i6yLrHef5PUS00bNSvkvUVl\nbmvXqEgUu+ejiJUQwvb/L/84tqPX8aeKV3NpKNcqu+WPxPuTdupIb+HdtQraZh84\nD5v+E/p/AgMBAAECggEAFXbv+5bAhodi9QtyCFzsVmRjwpaiv+rI/K1cow5IWPLk\n0Ldg586adu3ddXJlCHuvnhDnHHBnN9JWc73y3pE/k3mpwM6hbPRP+WPBMUOmlDnO\npCdQH/Gsbs8BasLV52pmAMa8lMQV6vyjHbT9U0q1zEBkllbyEkUCJa7I27PXofNw\n+d6KNcXskGSvYx/xih947ofkJeqsycFaNqTltsEE6palttOopHUyLzN6khSfLSjy\nFAmZQxFgjuQFbj5BS806v7WdkNM0EJcV+jnkLFfYGFdbUY3QxPabwfeQVICEhBf/\n2+PUQ3duBfUqSA3xZoS4pn+N8UTRXXXr9z+9op1+YQKBgQD3kQE6oSkMlMDgaP64\nqi90KMHgaTlE7aVhjVzxnnJd81XOlr3YcbxcdAVNEOxXd3fjIDSC6yXNhiyD3cnQ\n3nN0piI/tcnQovS8uvt5nTrmlyZi15tyyoTMr+SBvYauNGiPR1Ot0k5hNrq08tY5\nE/oFIE0Tu2qu08jLvBMjJ5RG3wKBgQDZhGygKjiBaFowsCag8YDC13zekfVaZlEt\ngcTq9s29V44Emi25cAasLmBDSGxNQb0k+jFRURbyWxUM84ctNtg//SqrMK2HP7+r\nWuNmDkBFD28i9JMuiFas5n10LTJopd660tiV8CKLB+JTpnmaueYo4rABMAXtnVUh\n1AEIJV7gYQKBgQDD0Ij1U9XBIsOwfLvFWq8wJLC9DN2EfKgMEiFK57W0RC1Bu4+r\n7MI9KnOq8lDOGivUlXuTdeUvvAnnv3zK3bjasjFyzRo1ET+dLBSOq+OT0khFdB57\nXF5P/Gw0hrFJhyCQ+6zfVvIyCHUDfPQer4NZnKP6kIoggFlZdIh6jOrGZwKBgQCl\nUpwJI+3slXavOMMzYjreXFABDmiv+8JJVy9m8oyvE2PSpaiJH9dCeMEbgmkmUwfC\nmhJv3rUVIRsfy9x7BgtYn0AV+xp5CH/SanMZd01r7+4lYESZgnB2W30QluWQWjmu\nP2D0nR50E1r2/zm/2vlPK/RgArMOxZ0V5/+cxGKXIQKBgQDgN+tbIfy2Vi8Efya3\n9/PbGgjyJZusPm3xxRw5aV3jJDv8B1qmv/ZFzBpB1kqIkvORHPum7tZZMaNZ5LSi\no/K0VGyc0d9PFziMJ7uDHn2fpA1nlCFTvLsm0bK9o+VUlRDdNZ4OaOHOcTBe13ff\nX1NBam5Cah9nrzMXNTnuvvpX5Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aditya@dark-star-467117-c5.iam.gserviceaccount.com",
+  "client_id": "102841533217043904604",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aditya%40dark-star-467117-c5.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -8,3 +8,27 @@
   --animate-duration: 2s;
   --animation-delay: 0.5;
 }
+/* In questioncontainer.css */
+
+/* In questioncontainer.css */
+
+/* Remove any old '.prose' styles and use this instead */
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: 0.9em; /* Makes table text slightly smaller */
+}
+
+.markdown-content th,
+.markdown-content td {
+  border: 1px solid #d1d5db; /* A light gray border */
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.markdown-content th {
+  background-color: #f3f4f6; /* A light background for headers */
+  font-weight: 600;
+}

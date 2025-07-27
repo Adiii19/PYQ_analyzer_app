@@ -173,3 +173,42 @@ html, body {
   } 
 }
 
+/* Add these styles to your main CSS file for the summary component */
+
+.summary-content {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  line-height: 1.8; /* Increased line height for better paragraph readability */
+  color: #374151;
+}
+
+.summary-content h1,
+.summary-content h2,
+.summary-content h3 {
+  margin-top: 2em; /* More space above headings */
+  margin-bottom: 1em; /* More space below headings */
+  font-weight: 600;
+  line-height: 1.4;
+  color: #111827;
+  border-bottom: 1px solid #e5e7eb; /* Adds a subtle separator line */
+  padding-bottom: 0.4em;
+}
+
+.summary-content p {
+  margin-bottom: 1.5em; /* Increased space between paragraphs */
+}
+
+.summary-content ul,
+.summary-content ol {
+  margin-left: 1.5rem;
+  margin-bottom: 1.5em;
+  list-style-position: outside;
+}
+
+.summary-content li {
+  margin-bottom: 0.75em; /* Space between list items */
+}
+
+.summary-content strong {
+  color: #1f2937; /* Make bold text slightly darker */
+}
