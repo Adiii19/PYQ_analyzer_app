@@ -51,10 +51,7 @@ The system is designed to be run as a script that takes an input file and produc
 
       * The script will generate `extracted_questions.md`, a Markdown file containing all the neatly formatted questions from the source document.
 
-## Project Contributors
 
-  * Project User (You)
-  * Gemini AI (Google)
 
 ## Acknowledgments
 
