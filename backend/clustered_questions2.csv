@@ -1,195 +1,36 @@
 Cluster,Question,Count
-🟢 Rarely Asked,"Q.1 (a) List the phases of Life cycle of data analytics. What is an analytic sandbox, and why is
-it important?",1
-🟢 Rarely Asked,"Q.1 (b) What is a logit? Compare linear regression versus logistic regression.
-Below is data on student strength in colleges and quarterly sales of stationeries from the
-shops in the vicinity of the colleges. Establish a linear relationship between quarterly
-sales of stationeries and student strength. Predict quarterly sales for a shop to be located
-near a college campus with 15,000 students?
-
-Stationer | Student Quaterly
-y Shop Strength (in | Sales ( Rs. in
-1000s 1000s
-
-Z 6 105
-*) 12 117
-7 157
-0 i aay
-
-149
-
-N
-S",1
-🟢 Rarely Asked,"Q.2 (a) Elaborate model planning and model building with one example.
-
-Mention the key outputs for each of the main stakeholders of an analytics project and
-what they usually expect at the conclusion of a project.",1
-🟢 Rarely Asked,"Q.2 (b) To the Internal Revenue Service, the reasonableness of total itemized deductions depends 10
-on the taxpayer’s adjusted gross income. Large deductions, which include charity and
-medical deductions, are more reasonable for taxpayers with large adjusted gross
-incomes. If a taxpayer claims larger than average itemized deductions for a given level
-of income, the chances of an IRS audit are increased. Data (in thousands of Rs) on
-adjusted gross income and the average or reasonable amount of itemized deductions
-follow.
-
-Adjusted Gross Income | Reasonable Amount of
-(Rs 1000s) Itemized Deductions
-(Rs1000s)
-a3
-
-27
-
-A. Use the least squares method to develop the estimated regression equation.
-
-B. Predict the reasonable level of total itemized deductions for a taxpayer with an adjusted
-gross income of Rs. 52,500. If this taxpayer claimed itemized deductions of
-
-Rs. 20,400, would the IRS agent’s request for an audit appear justified? Explain.",1
-🟢 Rarely Asked,"Q.3 (a) The owner of Showtime Movie Theatres, Inc., would like to predict weekly gross 10
-revenue as a function of advertising expenditures, historical data for a sample of eight
-weeks follow:
-
-Weekly
-Gross
-Revenue
-(Rs. 1000)
-
-Television
-Advertising
-(Rs. 1000s)
-
-Newspaper
-Advertising
-(Rs. 1000s)
-
-
-
-Develop an estimated regression equation with both television advertising and
-newspaper advertising as the independent variables, Predict weekly gross revenue for a
-week when Ps.3500 16 spent on television advertising and P45.) 400 is spent on newspaper
-
-advertising",1
-🟢 Rarely Asked,"Q.3 (b) Mention the Box-Jenkins methodology for time series analysis main steps, What is the 19
-difference between autocovaniance and autocorrelation function?",1
-🟢 Rarely Asked,"Q.4 (a) Explain with example various charts: Line, Bar, Pie, Area, Candlestick, Bubble, Surface, 10
-Map and highlight the best suited one.",1
-🟢 Rarely Asked,"Q.4 (b) Describe Autoregressive Moving Average (ARMA) model. Take any arbitrary exarnple 19
-and build a model using Autoregressive Integrated Moving Average (ARIMA) model.",1
-🟢 Rarely Asked,Q.5 (a) What is the working of selection attr ? Elaborate the steps to vizualize data using D3 js.,1
-🟢 Rarely Asked,Q.5 (b) Write short notes on NumPy and SciPy. Explain in detail boxplot and Violin plot.,1
-🟢 Rarely Asked,"Q.1 (a) (i) Emphasize the relation between security services & mechanisms.
-(ii) Differentiate between private key cryptography and public key cryptography.",1
-🟢 Rarely Asked,Q.1 (b) Discuss DES with respect to single round and DES Analysis.,1
-🟢 Rarely Asked,"Q.2 (a) Encrypt the plaintext “safe messages”
-, using Hill cipher for the given key: “ciphering”
-using a 3x3 matrix.",1
-🟢 Rarely Asked,"Q.2 (b) What is Digital Signature? Which are the services provided by Digital
-Signature?",1
-🟢 Rarely Asked,Q.3 (a) Elaborate Packet filtering firewall and discuss possible attacks on them.,1
-🟢 Rarely Asked,"Q.3 (b) Elaborate the necessary requirements
-for Cryptographic Hash Function and
-applications of hash functions.",1
-🟢 Rarely Asked,"Q.4 (a) Given a modulus n=221 and public key, e=7, find the values of p, q,
-(n) and d using RSA. Encrypt M=5.",1
-🟢 Rarely Asked,"Q.4 (b) What is a Digital Certificate? How does it validate the authenticity of the user? Explain
-X.509 certificate.",1
-🟢 Rarely Asked,"Q.5 (a) What are the goals of Database Security? Discuss various mechanisms of Database
-Security.",1
-🟢 Rarely Asked,"Q.5 (b) Write short note on
-(i) Session Hijacking
-(ii) Differentiate between MD5 and SHAS512",1
-🟢 Rarely Asked,"Q.1 (a) Compare :
-1. Techniques to handle overfitting and under fitting of Model.
-2. Training, Test and Validation dataset.",1
-🟢 Rarely Asked,Q.1 (b) Implement AND function using perceptron network for bipolar input and target?,1
-🟢 Rarely Asked,"Q.2 (a) What do you understand by Hard and Soft Clustering? Explain how EM algorithm is used
-in clustering?",1
-🟢 Rarely Asked,"Q.2 (b) Explain the detail working and key characteristic of an perceptron neural network and
-derive its weight update formula?",1
-🟢 Rarely Asked,"Q.3 (a) What are hyperplane in SVM and what do you understand by maxizimizing the margin
-in SVM? Why are Kemels needed in SVM? Elaborate the Polynomial Kernel?",1
-🟢 Rarely Asked,"Q.3 (b) What to you Understand by the term Regularization and why is it used? Also Compare
-L] and L2 regularization techniques",1
-🟢 Rarely Asked,"Q.4 (a) What are Eigen value and Eigen vectors? Find them for the following
-Matrix.
-=p “=4- 2
-Aa 2 22
-4 2 5",1
-🟢 Rarely Asked,"Q.4 (b) Explain the significance of the term input, threshold, weights, bias and activation function S
-in context of neural network models.",1
-🟢 Rarely Asked,Q.4 (c) Elaborate the difference between Feature Selection and Feature Extraction,1
-🟢 Rarely Asked,Q.5 (a) Explain any 3 performance matrix to be used for regression analysis?,1
-🟢 Rarely Asked,"Q.5 (b) Diaganolise if possible the following 3*3 matrix
-=! 3. 4
-3 -1 1
-
-— i a",1
-🟢 Rarely Asked,Q.1 (a) Define Image Compression Ratio and Compression Factor with proper illustration.,1
-🟢 Rarely Asked,Q.1 (b) Differentiate between Lossy and Lossless Compression.,1
-🟢 Rarely Asked,Q.1 (c) Difference between Bitmap and Vector Image format.,1
-🟢 Rarely Asked,Q.1 (d) What is meant by histogram equalization?,1
-🟢 Rarely Asked,"Q.2 (a) Draw the functional block diagram of digital image processing system and explain the
-purpose of each block.",1
-🟢 Rarely Asked,"Q.2 (b) Explain following terms in Morphology with example:
-
-> Opening
-
-> Closing",1
-🟢 Rarely Asked,Q.3 (a) What are the three stages of the canny edge detector? Briefly explain each phase.,1
-🟢 Rarely Asked,"Q.3 (b) Consider an image strip of size 50*100. The image consists of five vertical strips. The
-gray levels of the strips from left to right are 128, 64, 32, 16 and 8. The corresponding
-
-width of strips are 35,30,20,10 and 5 pixels respectively. If this stripe image coded is by
-Huffman coding, determine its efficiency.",1
-🟢 Rarely Asked,"Q.4 (a) Encode [al,a3,a2,a1] using Arithmetic Coding P(al)=0.2, P(a2)=0.6, P(a3)=0.2.",1
-🟢 Rarely Asked,"Q.4 (b) Explain Gray level transformation functions used for image
-Enhancement with proper illustration.",1
-🟢 Rarely Asked,"Q.5 (a) With necessary graphs, explain the following spatial image enhancement operation.
-i) Image Negative
-il) Log Transformation
-iit) | Power Law Transformation
-iv) Contrast Stretching",1
-🟢 Rarely Asked,Q.5 (b) Explain split and merge segmentation technique with proper illustration.,1
-🟢 Rarely Asked,"Q.1 Discuss any 10 reasons of why software projects fail. Also suggest the remedy for
-each.",1
-🟢 Rarely Asked,"Q.2 How does cyclomatic complexity serve as a measure of software code complexity?
-sscuss different ways of computing cyclomatic complexity.",1
-🟢 Rarely Asked,Q.3 scuss different quality guidelines to be followed while making a software design.,1
-🟢 Rarely Asked,"Q.4 a) Draw activity diagram for 'a customer purchasing a book from an online store’. Cover
-login, browsing books, adding selected book to cart, checkout and payment.
-
-b) How does evolving user interaction (Ul) affect the work of meticulous UI design?
-Analyze common UI errors and propose strategies for optimal user experiences.",1
-🟢 Rarely Asked,"Q.5 a) Outline an approach to systematically identify, evaluate, and prioritize risks across all
-stages of the software development lifecycle. Enlist any four risks each related to
-
-customers or product size.",1
-🟢 Rarely Asked,"Q.6 b) What are the fundamental principles underlying the incremental process model in
-software development, and how does it differ from traditional linear models such as
-the waterfall model?",1
-🟢 Rarely Asked,"Q.7 c) How docs information Technology Project Methodology (ITPM) contribute to the
-successful execution of IT projects? Discuss briefly its phases and deliverables of each
-
-nh",1
-🟢 Rarely Asked,"Q.5 a) Consider the development of a new software application having following tasks 10
-_— se
-ad mmediate
-Activity Time (Days
-Predecessor(s) | eer
-A - \3 ;
-| es
-4 A 4 |
-Cc A 6 |
-han 1s a -— ae
-D B '6 ia
-EB B 4 |
-F C 4 |
-6
-6. SE eee
-Hi bE, F 4% a
-Create an Activity-on-Node ( AON) network diagram representing the project tasks
-and their dependencies. Determine the critical path using the Critical Path Method
-CPM). Calculate the earliest startt time, earliest finish time, latest start time, and Jatest
-finish time for each task using CPM.
-b) Discuss the ‘Condition Testing’ strategy during white box testing.
-c) Discuss in briel ‘Collaborative Requirements Gathering’ -",1
+🟢 Rarely Asked,What is a deadlock in database transactions?,1
+🟢 Rarely Asked,Explain what a deadlock is in DBMS.,1
+🟢 Rarely Asked,What is denormalization?,1
+🟢 Rarely Asked,What is a composite key?,1
+🟢 Rarely Asked,Which operation combines the results of two queries?,1
+🟢 Rarely Asked,How can you merge the outputs of two SQL queries?,1
+🟢 Rarely Asked,What is the difference between DELETE and TRUNCATE in SQL?,1
+🟢 Rarely Asked,What is the difference between OLTP and OLAP?,1
+🟢 Rarely Asked,What is a foreign key?,1
+🟢 Rarely Asked,What is a clustered index?,1
+🟢 Rarely Asked,Which SQL command is used to update records?,1
+🟢 Rarely Asked,What is the difference between CHAR and VARCHAR?,1
+🟢 Rarely Asked,Which SQL clause is used to sort results?,1
+🟢 Rarely Asked,What is the difference between INNER JOIN and OUTER JOIN?,1
+🟢 Rarely Asked,What is the use of the HAVING clause?,1
+🟢 Rarely Asked,What is a surrogate key?,1
+🟢 Rarely Asked,What is an entity in a database?,1
+🟢 Rarely Asked,What is normalization?,1
+🟢 Rarely Asked,What is a schema in a database?,1
+🟢 Rarely Asked,What is a cursor in SQL?,1
+🟢 Rarely Asked,What is an ER model?,1
+🟢 Rarely Asked,What is SQL injection?,1
+🟢 Rarely Asked,What is the role of a database management system?,1
+🟢 Rarely Asked,Explain the function of a DBMS.,1
+🟢 Rarely Asked,What is a non-clustered index?,1
+🟢 Rarely Asked,What is a transaction in a database?,1
+🟢 Rarely Asked,What is a view in SQL?,1
+🟢 Rarely Asked,What is the purpose of an index in a database?,1
+🟢 Rarely Asked,Which SQL keyword is used to fetch unique records?,1
+🟢 Rarely Asked,How do you retrieve distinct entries in SQL?,1
+🟢 Rarely Asked,What is the primary key in a database?,1
+🟠 Occasionally Asked,What is the purpose of the EXISTS operator in SQL?,2
+🟠 Occasionally Asked,What is referential integrity?,2
+🟠 Occasionally Asked,Explain the process of normalization in DBMS.,2
+🟠 Occasionally Asked,Which normal form removes partial dependency?,2

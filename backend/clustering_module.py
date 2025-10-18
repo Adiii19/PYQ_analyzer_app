@@ -1,9 +1,7 @@
 import re
 import json
 import nltk
-import easyocr  # Import EasyOCR
 from pdf2image import convert_from_bytes
-from google.cloud import vision  # Import the vision library
 from google import genai
 from nltk.corpus import stopwords
 from pdf2image import convert_from_bytes
@@ -14,10 +12,7 @@ from sentence_transformers import SentenceTransformer, util
 from collections import defaultdict
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
-import torch
 import pandas as pd
-import cv2
-import numpy as np
 
 # --- INITIALIZATIONS ---
 client = genai.Client()
