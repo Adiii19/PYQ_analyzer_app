@@ -22,7 +22,7 @@ print("Your Gemini API Key:", api_key)
 
 
 # --- INITIALIZATIONS ---
-client = genai.Client(api_key)
+client = genai.Client(api_key=api_key)
 nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
 model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
