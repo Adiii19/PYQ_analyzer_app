@@ -10,3 +10,4 @@ transformers==4.38.2
 huggingface-hub
 flask
 flask_cors
+gunicorn
