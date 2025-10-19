@@ -1,0 +1,17 @@
+version: 1.0
+runtime: python3
+build:
+  commands:
+    build:
+      - pip install --upgrade pip
+      - pip install -r requirements.txt
+run:
+  command: gunicorn --bind 0.0.0.0:8000 server:app --workers 2 --timeout 120
+  network:
+    port: 8000
+    env: APP_PORT
+  env:
+    - name: PYTHONUNBUFFERED
+      value: "1"
+    - name: GEMINI_API_KEY
+      value: "AIzaSyBB0eFFsl-xQja9Ws4uyYkXz61zGjikMl4"
