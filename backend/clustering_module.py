@@ -13,9 +13,16 @@ from collections import defaultdict
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 import pandas as pd
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+api_key = os.getenv("GEMINI_API_KEY")
+print("Your Gemini API Key:", api_key)
+
 
 # --- INITIALIZATIONS ---
-client = genai.Client()
+client = genai.Client(api_key)
 nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
 model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
