@@ -1,5 +1,4 @@
 # server.py
-
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import os
@@ -124,4 +123,4 @@ def get_summary():
 
 if __name__ == '__main__':
     print("Server is running on port 5001...")
-    app.run(port=5001, debug=True)
+    app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 10000)))
