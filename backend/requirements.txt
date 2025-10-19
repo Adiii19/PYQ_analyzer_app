@@ -4,10 +4,12 @@ scikit-learn==1.5.2
 numpy>=2.1.0
 matplotlib==3.8.4
 torch>=2.5.0
+pytesseract==0.3.10
 pandas>=2.2.3
 sentence-transformers
 transformers==4.38.2
 huggingface-hub
 flask
+pdf2image==1.16.3
 flask_cors
 gunicorn
